@@ -1,0 +1,87 @@
+/* body */
+body {
+	background-color:	#FFE4CA;
+	font-family:Microsoft JhengHei;
+}
+
+/* 銝惜���� navbar */
+
+/* 瘛梯���憛� */
+/* ��銝惜navbar */
+.navbar-default{
+	width: 100%;
+	background-color:#5B5B5B;
+}
+/* ��銝惜navbar������ */
+.navbar-default .navbar-nav>li>a {
+	font-family:Microsoft JhengHei;
+	font-size: 20px;
+}
+/* logo */
+.navbar-brand img{
+	height: 50px;
+	width: 150px;
+}
+/* navbar ���� */
+.navbar-right {
+	margin-top: 18px;
+}
+
+/*container*/
+
+.textsize {
+	background-color:	#ACD6FF;
+	font-size: 18px;
+	border: 2px solid	#ACD6FF;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px #000;
+	margin-bottom: 10px;
+}
+
+#up {
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+#o1 {
+  width: 300px;
+  height: 200px;
+}
+
+label {
+  font-size: 22px;
+}
+
+.table-hover>tbody>tr:hover {
+  background-color:	#CEFFCE !important;
+}
+
+.page-header {
+	color:	#2828FF;
+	text-shadow: 0px 3px 0px #b2a98f,
+
+               0px 6px 10px rgba(0,0,0,0.15),
+
+               0px 9px 2px rgba(0,0,0,0.1),
+
+               0px 12px 30px rgba(0,0,0,0.1);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
